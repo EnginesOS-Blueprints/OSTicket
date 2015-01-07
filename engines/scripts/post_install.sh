@@ -1,0 +1,1 @@
+chmod 0644 include/ost-config.php
